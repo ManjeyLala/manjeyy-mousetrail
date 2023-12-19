@@ -1,5 +1,5 @@
 import './App.css';
-import MouseParticleTrail from './components/MouseTrail';
+import ManjeyyTrail from './components/MouseTrail';
 
 function App() {
 
@@ -13,7 +13,7 @@ function App() {
 
 
     <main>
-      <MouseParticleTrail floatingSpace="90" orbSize="3" style={{position:"fixed", zIndex:"-99"}}/>
+      <ManjeyyTrail floatingSpace="90" orbSize="3" style={{position:"fixed", zIndex:"-99"}}/>
     </main>
   );
 }

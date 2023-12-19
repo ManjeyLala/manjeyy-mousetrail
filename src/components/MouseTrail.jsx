@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 
 
 
-export default function MouseTrail({floatingSpace , orbSize}) {
+export default function ManjeyyTrail({floatingSpace , orbSize}) {
     const fs = Number(floatingSpace);
     console.log(Number( Number(floatingSpace) ))
     const canvasRef = useRef(null);
