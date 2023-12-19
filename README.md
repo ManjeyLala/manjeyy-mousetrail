@@ -4,6 +4,12 @@
 
 ## How to Use
 
-Add "<ManjeyyTrail/>" on your page!
+Add tag on your page!
+
+
+```
+<ManjeyyTrail floatingSpace="10" orbSize="3" />
+
+```
 
 Props floatingSpace = " int " and orbSize = " int " can be use to change the mouseTrail
